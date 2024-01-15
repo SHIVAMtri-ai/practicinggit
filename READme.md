@@ -1,1 +1,1 @@
-## practicing git by krish
+## practicing git by krish naik
